@@ -1,6 +1,6 @@
 # bar_chart
 
-A new Flutter project.
+A new Flutter project to show bar chart using charts_flutter package to show broadband data consumption per month
 
 ## Getting Started
 
